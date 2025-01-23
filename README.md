@@ -7,7 +7,8 @@ This project demonstrates the implementation of a MAC (Multiply-Accumulate) chip
 Features
 
 Top-down design approach for modular and organized development.
-![image](https://github.com/user-attachments/assets/0caa26d6-9fbe-409b-8fa8-8132cd6e9679)
+
+![image](https://github.com/user-attachments/assets/1a516393-0adc-4952-8f07-d923f727d6e7)
 
 Inputs:
 
